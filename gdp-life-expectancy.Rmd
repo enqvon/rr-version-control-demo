@@ -17,7 +17,6 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE)
 library(ggplot2)
 library(dplyr)
 
-# Trying to change something
 ```
 
 ```{r load-dataset}
